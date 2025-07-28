@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Pankaj-Birla-s-workspace-8e9e2b.eu-central-1.xata.sh/db/jsm_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
